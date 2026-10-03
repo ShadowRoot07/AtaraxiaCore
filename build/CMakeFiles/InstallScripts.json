@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/cmake_install.cmake",
-		"/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/src/cmake_install.cmake",
-		"/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/sandbox/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

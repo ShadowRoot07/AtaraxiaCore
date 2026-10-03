@@ -1,0 +1,139 @@
+# ==========================================
+# Compilaciones y Binarios de CMake
+# ==========================================
+build/
+bin/
+lib/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+!**/CMakeLists.txt
+
+# ==========================================
+# Archivos de Objeto y Compilación
+# ==========================================
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+
+# ==========================================
+# Editores e IDEs (Neovim, VSCode, CLion)
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.netrwhist
+.clangd/
+.cache/
+compile_commands.json
+
+# ==========================================
+# Logs y Temporales de WSL / Sistema
+# ==========================================
+*.log
+.DS_Store
+Thumbs.dbc# ==========================================
+# Compilaciones y Binarios de CMake
+# ==========================================
+build/
+bin/
+lib/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+!**/CMakeLists.txt
+
+# ==========================================
+# Archivos de Objeto y Compilación
+# ==========================================
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+
+# ==========================================
+# Editores e IDEs (Neovim, VSCode, CLion)
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.netrwhist
+.clangd/
+.cache/
+compile_commands.json
+
+# ==========================================
+# Logs y Temporales de WSL / Sistema
+# ==========================================
+*.log
+.DS_Store
+Thumbs.db# ==========================================
+# Compilaciones y Binarios de CMake
+# ==========================================
+build/
+bin/
+lib/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+!**/CMakeLists.txt
+
+# ==========================================
+# Archivos de Objeto y Compilación
+# ==========================================
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+
+# ==========================================
+# Editores e IDEs (Neovim, VSCode, CLion)
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.netrwhist
+.clangd/
+.cache/
+compile_commands.json
+
+# ==========================================
+# Logs y Temporales de WSL / Sistema
+# ==========================================
+*.log
+.DS_Store
+Thumbs.db
