@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAtaraxiaCore.a CMakeFiles/AtaraxiaCore.dir/Core/Application.cpp.o CMakeFiles/AtaraxiaCore.dir/Window/Window.cpp.o CMakeFiles/AtaraxiaCore.dir/Render/Renderer2D.cpp.o CMakeFiles/AtaraxiaCore.dir/Input/Input.cpp.o
+/usr/bin/ranlib libAtaraxiaCore.a

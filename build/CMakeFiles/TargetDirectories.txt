@@ -1,0 +1,8 @@
+/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/src/CMakeFiles/AtaraxiaCore.dir
+/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/sandbox/CMakeFiles/SandboxApp.dir
+/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/sandbox/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/Desktop/Proyectos/AtaraxiaCore/build/sandbox/CMakeFiles/rebuild_cache.dir
