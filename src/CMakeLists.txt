@@ -41,4 +41,12 @@ target_include_directories(AtaraxiaCore PUBLIC
     ${IMGUI_DIR}/backends
 )
 
+# Enlazar o incluir GLM
+find_package(glm REQUIRED)
+target_link_libraries(AtaraxiaCore PUBLIC glm::glm)
+
 target_link_libraries(AtaraxiaCore PUBLIC SDL2::SDL2)
+
+target_sources(AtaraxiaCore PRIVATE
+    Scene/Scene.cpp
+)
